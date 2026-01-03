@@ -83,7 +83,8 @@ If you use this code, please cite:
 
 
 **Syed Khairul Bashar**  
-PhD in Biomedical Engineering 
+PhD in Biomedical Engineering
+
 📧 skbashar09@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/syed-khairul-bashar/)
 ---
