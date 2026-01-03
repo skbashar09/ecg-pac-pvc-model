@@ -2,6 +2,20 @@
 
 Deep learning model for automated ECG classification detecting Normal Sinus Rhythm (NSR), Premature Atrial Contractions (PAC), and Premature Ventricular Contractions (PVC).
 
+# 🫀 ECG Arrhythmia Classification - Dual-Channel CNN-LSTM Model
+
+This repository contains the implementation and pre-trained models for **automated ECG arrhythmia classification** using a novel **dual-channel CNN-LSTM architecture** that processes both **preprocessed ECG signals and their derivatives** for enhanced feature extraction.
+
+
+## 🎯 Key Features
+
+- **Dual-Channel Architecture**: Utilizes both preprocessed ECG and derivative signals for improved classification
+- **CNN-LSTM Hybrid**: Combines spatial feature extraction (CNN) with temporal pattern recognition (LSTM)
+- **Multi-Class Classification**: Detects NSR, PAC, and PVC with confidence-based prediction filtering for clinical reliability
+- **Docker Support**: Fully containerized for reproducible research
+- **Pre-trained Models**: Ready-to-use models trained on multiple datasets
+
+
 **Publication:**  
 Bashar S.K. et al., 2026, "Premature atrial and ventricular contraction detection using deep learning and short ECG: A multi-dataset evaluation", *Biomedical Signal Processing and Control*, 113, p.108956.  
 https://doi.org/10.1016/j.bspc.2025.108956
